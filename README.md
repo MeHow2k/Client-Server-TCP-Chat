@@ -1,6 +1,10 @@
 # Client-Server-TCP-Chat
 
-Simple TCP client-server chat application. Features: clear chat button, emoji buttons.
+EXE FILES ARE IN FOLDER APPLICATIONS!
+PLIKI EXE SĄ W FOLDERZE APPLICATIONS!
+
+Simple TCP client-server chat application.
+Features: clear chat button, emoji buttons.
 Default IP is set to localhost for both server and client. 
 GUI language is Polish. 
 In order to start you need to click "start" button on server application, then on client application u need to click "Połącz".
@@ -9,7 +13,8 @@ If connection is estabilished you will be able to chat by typing a message and c
 To clear messagebox you need to click "Wyczyść czat" on the left of the emoji buttons.
 To stop server you can just close window or click "Stop" without closing application.
 
-Prosta aplikacja czatu klient-serwer. Zawartość: przycisk czyszenia czatu, przyciski emoji.
+Prosta aplikacja czatu klient-serwer. 
+Zawartość: przycisk czyszenia czatu, przyciski emoji.
 Domyślne IP jest ustawione jako localhost dla serwera i klienta.
 Aby rozpocząć, należy kliknąć przycisk "start" w aplikacji serwera, a następnie w aplikacji klienta kliknąć "Połącz".
 Pamiętaj, aby wprowadzić IP serwera w aplikacji klienta.
